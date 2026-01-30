@@ -5,7 +5,7 @@ from datetime import datetime
 st.set_page_config(page_title="Mercado Comunidad", page_icon="🛒", layout="centered")
 
 # --- 2. SEGURIDAD MAESTRA ---
-PASSWORD_TAO = "TAO2024" 
+PASSWORD_TAO = "TAO" 
 ADMIN_NAME = "TAO_CREATOR"
 
 # --- 3. BASE DE DATOS GLOBAL (Sincroniza a todos los usuarios en el servidor) ---
